@@ -1,4 +1,6 @@
 # Top Netflix Films Analysis	
+Dashboard Link: https://app.powerbi.com/groups/me/reports/a202b6a6-088d-4457-9041-a46a23c77387/b5c8b957ec503ae028c5?experience=power-bi
+
 Tools: SQL (Microsoft SQL Server) and Power BI.
 
 Conducted analysis on Netflix and Top 500 Movies datasets using SQL to clean, transform and analyse data, performed data cleaning tasks such as removing duplicates, standardizing columns, handling null values, and enriching data with derived metrics, executed SQL queries to identify trends, designed and developed Power BI dashboards to visualize data.
